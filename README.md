@@ -1,2 +1,2 @@
 # testrepo
-ediying the file
+editing the file
